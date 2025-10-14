@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3732dc93.css",
+    "main.js": "/static/js/main.22e78237.js",
+    "static/js/557.8ec6fba2.chunk.js": "/static/js/557.8ec6fba2.chunk.js",
+    "static/js/102.eb4d0710.chunk.js": "/static/js/102.eb4d0710.chunk.js",
+    "static/js/199.473bf433.chunk.js": "/static/js/199.473bf433.chunk.js",
+    "static/js/533.d7241f98.chunk.js": "/static/js/533.d7241f98.chunk.js",
+    "static/css/544.1de6ca14.chunk.css": "/static/css/544.1de6ca14.chunk.css",
+    "static/js/544.d4a4aac9.chunk.js": "/static/js/544.d4a4aac9.chunk.js",
+    "static/js/270.398bf5de.chunk.js": "/static/js/270.398bf5de.chunk.js",
+    "static/media/Dattateja-IMG.jpeg": "/static/media/Dattateja-IMG.bf04d069c5108f0925eb.jpeg",
+    "static/media/usc-logo.svg": "/static/media/usc-logo.ca12a3b2a44380e443cdb784b28887cb.svg",
+    "index.html": "/index.html",
+    "main.3732dc93.css.map": "/static/css/main.3732dc93.css.map",
+    "main.22e78237.js.map": "/static/js/main.22e78237.js.map",
+    "557.8ec6fba2.chunk.js.map": "/static/js/557.8ec6fba2.chunk.js.map",
+    "102.eb4d0710.chunk.js.map": "/static/js/102.eb4d0710.chunk.js.map",
+    "199.473bf433.chunk.js.map": "/static/js/199.473bf433.chunk.js.map",
+    "533.d7241f98.chunk.js.map": "/static/js/533.d7241f98.chunk.js.map",
+    "544.1de6ca14.chunk.css.map": "/static/css/544.1de6ca14.chunk.css.map",
+    "544.d4a4aac9.chunk.js.map": "/static/js/544.d4a4aac9.chunk.js.map",
+    "270.398bf5de.chunk.js.map": "/static/js/270.398bf5de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3732dc93.css",
+    "static/js/main.22e78237.js"
+  ]
+}
