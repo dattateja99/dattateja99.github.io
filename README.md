@@ -1,6 +1,6 @@
 # Dattateja Reddy Anakala - Portfolio Website
 
-This is a personal portfolio website of Dattateja Reddy Anakala built with React to showcase my experience, projects, skills, and certifications.
+This is a personal portfolio website of Dattateja Reddy Anakala built with React to showcase my experience, projects, and skills.
 
 ## Features
 
@@ -23,8 +23,7 @@ This is a personal portfolio website of Dattateja Reddy Anakala built with React
 
 1. Clone the repository
    ```
-   git clone https://github.com/adityaSrivastava29/adityasrivastava29.github.io.git
-   cd adityasrivastava29.github.io
+   gh repo clone dattateja99/dattateja99.github.io
    ```
 
 2. Install dependencies
