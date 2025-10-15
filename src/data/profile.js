@@ -4,7 +4,7 @@ export const profile = {
   name: "Dattateja Reddy Anakala",
   titles: ["Software Engineer", "Full Stack Developer", "Machine Learning Engineer"],
   bio: [
-  "Hello! I'm <strong>Dattateja</strong>, a <strong>Software Engineer</strong> with an experinece ff <strong>2+ years</strong> and a passion for building <strong>end-to-end solutions</strong> that perform at scale.",
+  "Hello! I'm <strong>Dattateja</strong>, a <strong>Software Engineer</strong> with an experinece of <strong>2+ years</strong> and a passion for building <strong>end-to-end solutions</strong> that perform at scale.",
   "I am a <strong>Master's in Computer Science</strong> graduate from the <strong>University of Southern California (USC)</strong>.",
   "My professional experience has centered on developing <strong>high-impact systems</strong>, from a <strong>campus-wide compliance platform</strong> to <strong>enterprise warranty management solutions</strong> and <strong>Machine Learning projects</strong>.",
   "With hands-on experience developing solutions using <strong>React</strong>, <strong>Python/Flask</strong>, and <strong>Go</strong>, I have a proven track record of architecting <strong>robust backend services</strong>, implementing <strong>secure RESTful APIs</strong>, and deploying applications on <strong>cloud platforms</strong> like <strong>GCP</strong> and <strong>AWS</strong>.",
