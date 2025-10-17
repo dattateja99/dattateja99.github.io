@@ -53,7 +53,7 @@ const Header = () => {
             <li><a className="hover:text-primary transition-colors" href="#contact" onClick={() => scrollToSection('contact')}>Contact</a></li>
             <li>
               <a 
-                href="https://drive.google.com/file/d/1uQ-FiQkQbK4unw4UGYt_oOQhKjUb10V4/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1jCoxHh9QyVpQFe_WWW_HUkMF4V_unDo5/view?usp=sharing" 
                 download="Resume.pdf" 
                 className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
               >
@@ -82,7 +82,7 @@ const Header = () => {
               <li><a className="block hover:text-primary" href="#contact" onClick={() => scrollToSection('contact')}>Contact</a></li>
               <li>
                 <a 
-                  href="https://drive.google.com/file/d/1uQ-FiQkQbK4unw4UGYt_oOQhKjUb10V4/view?usp=sharing" 
+                  href="https://drive.google.com/file/d/1jCoxHh9QyVpQFe_WWW_HUkMF4V_unDo5/view?usp=sharing" 
                   download="Resume.pdf" 
                   className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                 >
